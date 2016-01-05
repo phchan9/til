@@ -24,3 +24,4 @@ __weak typeof(self) weakSelf = self;
 ### Reference
 * [strongSelf vs weakSelf](https://dhoerl.wordpress.com/2013/04/23/i-finally-figured-out-weakself-and-strongself/)
 * [issue with __block and __weak](http://honglu.me/2015/01/06/weak%E4%B8%8Eblock%E5%8C%BA%E5%88%AB/)
+* [arc best practice](http://amattn.com/p/arc_best_practices.html)
