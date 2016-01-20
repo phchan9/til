@@ -4,7 +4,7 @@ When I'm working on a huge project and have no time to checkout a bunch of sourc
 Therefore, the following search tips made my job easier.
 
 
-# Commits about the specific file
+## Commits about the specific file
 We can use `git log` with `-<n>` options to limit its output and use filename to
 search the specific files. For example, I want
 to know the recent 2 commits about README.md in this project.
@@ -56,7 +56,7 @@ index c5f2e2b..40d0040 100644
 With options `-p`, we can see more detail about our update. We can also use `git log -- <filename>` to show all the commit log about your files.
 
 
-# Grep the diff of your commits
+## Grep the diff of your commits
 Use `-S"<string>"` to grep some lines in your source code.
 ```diff
 # template: git log -S"string"
@@ -84,7 +84,7 @@ index fc84eff..0000000
 .........
 ```
 
-# Grep your commit message
+## Grep your commit message
 Use `--grep="string"` to find commit message yo interested in.
 
 ```diff
@@ -108,5 +108,5 @@ index 3b6de00..fc84eff 100644
 +* [arc best practice](http://amattn.com/p/arc_best_practices.html)
 ```
 
-# Reference
+## Reference
 * [atlassian tutorials](https://www.atlassian.com/git/tutorials/git-log/filtering-the-commit-history/)
