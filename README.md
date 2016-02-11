@@ -16,6 +16,7 @@ In order to keep myself learning and better, I write notes which I learn day by 
 - [Weak Reference Issue](ios/weak-reference-issue.md)
 - [Understanding CGAffineTransform](ios/understanding-CGAffineTransform.md)
 - [How to craft a shadow image in the background view](ios/how-to-craft-a-shadow-image-in-the-background-view.md)
+- [fix some issue in lldb](ios/fix-some-issue-in-lldb.md)
 
 
 ### Git
