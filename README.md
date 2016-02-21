@@ -22,3 +22,4 @@ In order to keep myself learning and better, I write notes which I learn day by 
 ### Git
 - [Undo rebase or reset incorrectly](git/undo-rebase-or-reset-incorrectly.md)
 - [Search git log](git/search-git-log.md)
+- [Staging partial modification in files](git/staging-partial-modification-in-files.md)
