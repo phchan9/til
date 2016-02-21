@@ -54,4 +54,6 @@ s - split the current hunk into smaller hunks
 e - manually edit the current hunk
 ? - print help
 ```
-I often use `y`/`n` option to stage or not to stage the hunk. Sometimes, I also need the `s` to split the hunk to make it to be line-based to stage.
+I often use `y`/`n` option to stage or not to stage the hunk. Sometimes, I also need the `s` to split the hunk to make it to be line-based to stage and use `e` to manually edit hunk.
+
+NOTE: use `e` option to modify content of staging is more flexible. 
