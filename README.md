@@ -18,6 +18,7 @@ In order to keep myself learning and better, I write notes which I learn day by 
 - [How to craft a shadow image in the background view](ios/how-to-craft-a-shadow-image-in-the-background-view.md)
 - [fix some issue in lldb](ios/fix-some-issue-in-lldb.md)
 - [use specific version cocoapods to update pods](ios/use-specific-version-cocoapods-to-update-pods.md)
+- [add shadow effect programmatically in a easy way](ios/add-shadow-effect-programmatically-in-a-easy-way.md)
 
 
 ### Git
