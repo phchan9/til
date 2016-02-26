@@ -1,6 +1,6 @@
 # TIL
 
-In order to keep myself learning and better, I write notes which I learn day by day.
+In order to keep myself learning and better, write some write-ups here.
 
 
 ### Categories
@@ -20,6 +20,7 @@ In order to keep myself learning and better, I write notes which I learn day by 
 - [use specific version cocoapods to update pods](ios/use-specific-version-cocoapods-to-update-pods.md)
 - [add shadow effect programmatically in a easy way](ios/add-shadow-effect-programmatically-in-a-easy-way.md)
 - [alternative of indexPathForCell method in tableView](ios/alternative-of-indexPathForCell-method-in-tableView.md)
+- [selected vs highlighted in tableView/collectionView](ios/selected-vs-highlighted-in-tableView-or-collectionView.md)
 
 
 ### Git
