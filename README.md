@@ -21,6 +21,7 @@ In order to keep myself learning and better, write some write-ups here.
 - [add shadow effect programmatically in a easy way](ios/add-shadow-effect-programmatically-in-a-easy-way.md)
 - [alternative of indexPathForCell method in tableView](ios/alternative-of-indexPathForCell-method-in-tableView.md)
 - [selected vs highlighted in tableView/collectionView](ios/selected-vs-highlighted-in-tableView-or-collectionView.md)
+- [Provisioning file vs Certificate vs App Id](ios/provisioning-file-vs-certificate-vs-app-id.md)
 
 
 ### Git
