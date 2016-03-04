@@ -23,6 +23,7 @@ In order to keep myself learning and better, write some write-ups here.
 - [selected vs highlighted in tableView/collectionView](ios/selected-vs-highlighted-in-tableView-or-collectionView.md)
 - [Provisioning file vs Certificate vs App Id](ios/provisioning-file-vs-certificate-vs-app-id.md)
 - [How to set a conditional break point in Xcode properly](ios/how-to-set-a-conditional-break-point-in-xcode.md)
+- [How to get the app size](ios/appsize.md)
 
 
 ### Git
