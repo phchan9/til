@@ -24,6 +24,7 @@ In order to keep myself learning and better, write some write-ups here.
 - [Provisioning file vs Certificate vs App Id](ios/provisioning-file-vs-certificate-vs-app-id.md)
 - [How to set a conditional break point in Xcode properly](ios/how-to-set-a-conditional-break-point-in-xcode.md)
 - [How to get the app size](ios/appsize.md)
+- [Difference Between Xcode Project and Xcode Workspace](ios/difference-between-xcode-project-and-xcode-workspace.md)
 
 ### Ruby
 - [How To Colorize Ruby Output](ruby/how-to-colorize-ruby-output.md)
