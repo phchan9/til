@@ -35,3 +35,9 @@ In order to keep myself learning and better, write some write-ups here.
 - [Undo rebase or reset incorrectly](git/undo-rebase-or-reset-incorrectly.md)
 - [Search git log](git/search-git-log.md)
 - [Staging partial modification in files](git/staging-partial-modification-in-files.md)
+
+
+
+# License
+© 2016 Pei Hsuan Chang    
+This repository is licensed under the MIT license. See LICENSE for details.
