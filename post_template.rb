@@ -5,7 +5,7 @@ require 'colorize'
 print "input category: "
 input_category_name = gets.chomp.downcase
 print "input topic name: "
-input_topic_name = gets.chomp
+input_topic_name = gets.chomp.downcase
 
 file_title = input_topic_name.split.map { |word| word.capitalize }.join(" ")
 file_name = input_topic_name.gsub(/\s+/m,"-") + ".md"
