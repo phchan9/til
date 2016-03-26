@@ -32,6 +32,7 @@ In order to keep myself learning and better, write some write-ups here.
 
 ### Ruby
 - [How To Colorize Ruby Output](ruby/how-to-colorize-ruby-output.md)
+- [Switch RVM to rbenv](ruby/switch-rvm-to-rbenv.md)
 
 ### Git
 - [Undo rebase or reset incorrectly](git/undo-rebase-or-reset-incorrectly.md)
