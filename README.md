@@ -33,15 +33,14 @@ In order to keep myself learning and better, write some write-ups here.
 ### Ruby
 - [How To Colorize Ruby Output](ruby/how-to-colorize-ruby-output.md)
 - [Switch RVM to rbenv](ruby/switch-rvm-to-rbenv.md)
+- [Check Out the Disk Usage Of RVM](ruby/show-rvm-disk-usage.md)
+
 
 ### Git
 - [Undo rebase or reset incorrectly](git/undo-rebase-or-reset-incorrectly.md)
 - [Search git log](git/search-git-log.md)
 - [Staging partial modification in files](git/staging-partial-modification-in-files.md)
 - [How To Apply Git Patch Gracefully](git/how-to-apply-git-patch-gracefully.md)
-
-### Rails
-* [Check Out the Disk Usage Of RVM](rails/show-rvm-disk-usage.md)
 
 
 
