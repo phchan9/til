@@ -20,8 +20,14 @@ __weak typeof(self) weakSelf = self;
 }];
 
 ```
+NOTE:  
+According to the comment in stackoverflow,
+> Keep in mind the strong reference cycle may not be this straightforward. For example, if your controller has a strong reference to an object, that object has a strong reference to a completion block, and then the completion block strongly references your controller, you'll still have a retain cycle, just with 3 objects instead of 2     
+
+We should need to check retain cycle with more care by this reminder.
 
 ## Reference
 * [strongSelf vs weakSelf](https://dhoerl.wordpress.com/2013/04/23/i-finally-figured-out-weakself-and-strongself/)
 * [issue with __block and __weak](http://honglu.me/2015/01/06/weak%E4%B8%8Eblock%E5%8C%BA%E5%88%AB/)
 * [arc best practice](http://amattn.com/p/arc_best_practices.html)
+* [stackover problem with block and retain cycle](http://stackoverflow.com/questions/19280650/afnetworking-uitableview-and-blocks)
