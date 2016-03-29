@@ -42,6 +42,7 @@ In order to keep myself learning and better, write some write-ups here.
 - [Search git log](git/search-git-log.md)
 - [Staging partial modification in files](git/staging-partial-modification-in-files.md)
 - [How To Apply Git Patch Gracefully](git/how-to-apply-git-patch-gracefully.md)
+- [Clean Untracked File](git/clean-untracked-file.md)
 
 
 
