@@ -5,6 +5,7 @@ Questions:
 What does memory management do about blocks in objective C? Difference between MRC and ARC?
 And what about the memory management with `__block` and `__weak`?
 
+// TODO:
 
 # Reference
 * [Objective C Blocks: Summary, Syntax & Best Practices](http://amattn.com/p/objective_c_blocks_summary_syntax_best_practices.html)
