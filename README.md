@@ -39,6 +39,7 @@ In order to keep myself learning and better, write some write-ups here.
 - [Switch RVM to rbenv](ruby/switch-rvm-to-rbenv.md)
 - [Check Out the Disk Usage Of RVM](ruby/show-rvm-disk-usage.md)
 - [Learning Ruby With Pry](ruby/learning-ruby-with-pry.md)
+- [Include and Extend in Class](ruby/include-and-extend-in-class.md)
 
 
 ### Git
