@@ -40,7 +40,7 @@ In order to keep myself learning and better, write some write-ups here.
 - [Check Out the Disk Usage Of RVM](ruby/show-rvm-disk-usage.md)
 - [Learning Ruby With Pry](ruby/learning-ruby-with-pry.md)
 - [Include and Extend in Class](ruby/include-and-extend-in-class.md)
-
+- [Class Methods in Ruby](ruby/class-methods-in-ruby.md)
 
 ### Git
 - [Undo rebase or reset incorrectly](git/undo-rebase-or-reset-incorrectly.md)
