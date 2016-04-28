@@ -7,6 +7,11 @@ input_category_name = gets.chomp.downcase
 print "input topic name: "
 input_topic_name = gets.chomp.downcase
 
+if input_category_name.empty? || input_topic_name.empty?
+  puts "Error: category name and topic name can't be blank...".red
+  exit 1
+end
+
 file_title = input_topic_name.split.map { |word| word.capitalize }.join(" ")
 file_name = input_topic_name.gsub(/\s+/m,"-") + ".md"
 puts "new file: " + file_name.green + " with title: " + file_title.blue
