@@ -3,9 +3,9 @@
 require 'colorize'
 
 print "input category: "
-input_category_name = gets.chomp.downcase
+input_category_name = gets.strip.downcase
 print "input topic name: "
-input_topic_name = gets.chomp.downcase
+input_topic_name = gets.strip.downcase
 
 if input_category_name.empty? || input_topic_name.empty?
   puts "Error: category name and topic name can't be blank...".red
