@@ -27,3 +27,4 @@ NOTE: we can use `security cms -D -i example.mobileprovision` to look into provi
 * [quora answer](https://www.quora.com/What-are-the-differences-between-certificates-provisioning-profiles-and-identifiers)
 * [good and detail explanation](http://escoz.com/blog/demystifying-ios-certificates-and-provisioning-files/)
 * [objc](https://www.objc.io/issues/17-security/inside-code-signing/)
+* [what-are-code-signing-identities](http://stackoverflow.com/questions/15996468/what-are-code-signing-identities)
