@@ -37,6 +37,7 @@ In order to keep myself learning and better, write some write-ups here.
 - [Show Xcode Build Env Variable](ios/show-xcode-build-env-variable.md)
 - [How To Append Preference To Setting Bundle At The Runtime](ios/how-to-append-preference-to-setting-bundle-at-the-runtime.md)
 - [Difference Between Accessing Instance Variable And Using Accessor Internally](ios/difference-between-accessing-instance-variable-and-using-accessor-internally.md)
+- [How To Ignore Clang Diagnostics](ios/how-to-ignore-clang-diagnostics.md)
 
 ### Ruby
 - [How To Colorize Ruby Output](ruby/how-to-colorize-ruby-output.md)
