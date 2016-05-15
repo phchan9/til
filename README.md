@@ -40,6 +40,7 @@ In order to keep myself learning and better, write some write-ups here.
 - [How To Ignore Clang Diagnostics](ios/how-to-ignore-clang-diagnostics.md)
 - [What Is NS_REQUIRES_SUPER Macro](ios/what-is-ns_require_super-macro.md)
 - [Constraint Term In Auto Layout](ios/constraint-term-in-auto-layout.md)
+- [Reload Data In CollectionView](ios/reload-data-in-collectionview.md)
 
 ### Ruby
 - [How To Colorize Ruby Output](ruby/how-to-colorize-ruby-output.md)
