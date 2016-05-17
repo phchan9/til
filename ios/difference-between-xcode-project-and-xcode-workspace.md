@@ -19,3 +19,4 @@ And according to cocoapods documentation,
 # Reference
 * [stackoverflow](http://stackoverflow.com/questions/21631313/xcode-project-vs-xcode-workspace-differences)
 * [some blog](http://www.peachpit.com/articles/article.aspx?p=2118332)
+* [great post with graphic explanation](https://medium.com/ios-os-x-development/ios-code-signing-provisioning-in-a-nutshell-d5b247760bef#.zcdcvosmq)
