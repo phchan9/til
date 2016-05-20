@@ -7,7 +7,7 @@ To fix this , we declare one more variable in block to
 to retain the weak variable:
 ```objc
 __weak typeof(self) weakSelf = self;
-[[PHNetworkService sharedService] fetchRequest:request withCompletionBlock:
+[self.APIService fetchRequest:request withCompletionBlock:
 ^(NSArray *infoList){
     typeof(self) strongSelf = weakSelf;
     if(strongSelf){
