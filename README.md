@@ -42,6 +42,7 @@ In order to keep myself learning and better, write some write-ups here.
 - [Constraint Term In Auto Layout](ios/constraint-term-in-auto-layout.md)
 - [Reload Data In CollectionView](ios/reload-data-in-collectionview.md)
 - [Several Sizing Methods in iOS](ios/several-sizing-methods-in-ios.md)
+- [NS_ENUM and NS_OPTIONS](ios/ns_enum-and-ns_options.md)
 
 ### Ruby
 - [How To Colorize Ruby Output](ruby/how-to-colorize-ruby-output.md)
