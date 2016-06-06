@@ -58,6 +58,7 @@ In order to keep myself learning and better, write some write-ups here.
 - [Staging partial modification in files](git/staging-partial-modification-in-files.md)
 - [How To Apply Git Patch Gracefully](git/how-to-apply-git-patch-gracefully.md)
 - [Clean Untracked File](git/clean-untracked-file.md)
+- [Alias a Branch In Git](git/alias-a-branch-in-git.md)
 
 
 
