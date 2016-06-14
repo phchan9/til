@@ -29,7 +29,7 @@ In order to keep myself learning and better, write some write-ups here.
 - [Note About ViewController Containment](ios/note-about-viewController-containment.md)
 - [NSMapTable And NSHashTable](ios/nsmaptable-and-nshashtable.md)
 - [Memory Management Attributes For Properties](ios/memory-management-attributes-for-properties.md)
-- [What Is Prefix.pch File?](ios/what-is-prefix.pch-file?.md)
+- [What Is Prefix.pch File?](ios/what-is-prefix.pch-file.md)
 - [Statement Expressions In Objc](ios/statement-expressions-in-objc.md)
 - [Dive Into Objective C Block](ios/dive-into-objective-c-block.md)
 - [Null In Objc](ios/null-in-objc.md)
